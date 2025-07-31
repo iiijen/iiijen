@@ -11,8 +11,7 @@
 - Linux 基本操作
 
 ### 📌 小作品
-- [留言板原型頁面](https://github.com/bohan123/simple-message-board)
-- [SQL 顧客查詢練習](https://github.com/bohan123/sql-customer-query)
+- [Todo-List](https://github.com/iiijen/Todo-List)
 
 ### 📫 聯絡方式
 Email: sunny051892@gmail.com  
